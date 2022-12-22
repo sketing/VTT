@@ -280,3 +280,6 @@ maps/media/
 
 # Jupyter Notebooks
 *.ipynb
+
+# SQLite Local Database
+*.sqlite

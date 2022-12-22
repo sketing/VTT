@@ -78,6 +78,7 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     "maps.users",
+    "maps.game",
     "maps"
     # Your stuff: custom apps go here
 ]
