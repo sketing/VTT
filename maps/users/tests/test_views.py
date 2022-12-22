@@ -11,11 +11,7 @@ from django.urls import reverse
 from maps.users.forms import UserAdminChangeForm
 from maps.users.models import User
 from maps.users.tests.factories import UserFactory
-from maps.users.views import (
-    UserRedirectView,
-    UserUpdateView,
-    user_detail_view,
-)
+from maps.users.views import UserRedirectView, UserUpdateView, user_detail_view
 
 pytestmark = pytest.mark.django_db
 
