@@ -1,11 +1,15 @@
-# vtt
+# VTT
 
-Opensource browser based virtual tabletop
+Opensource browser-based virtual tabletop
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 License: MIT
+
+# SETUP
+
+- Install PostgreSQL 14 https://www.postgresql.org/download/
 
 ## Settings
 

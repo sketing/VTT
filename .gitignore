@@ -277,3 +277,6 @@ maps/media/
 .env
 .envs/*
 !.envs/.local/
+
+# Jupyter Notebooks
+*.ipynb
