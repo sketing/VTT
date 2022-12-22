@@ -1,7 +1,7 @@
-from django.views.generic import TemplateView
+from django.http import HttpResponse
 
 # from django.shortcuts import render
 
 
-class MapView(TemplateView):
-    template_name = "game/battlemap.html"
+def GameView(request):
+    return HttpResponse("This is the Game view placeholder")
